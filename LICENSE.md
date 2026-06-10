@@ -1,4 +1,4 @@
-# 
+# 极速 AI News Summarizer 模板。集成 特征提取 和 边缘AI，性能最大化。
 
 
 
